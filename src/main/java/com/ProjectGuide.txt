@@ -1,0 +1,1 @@
+For initial setup referred these resources: https://www.digitalocean.com/community/tutorials/java-web-application-tutorial-for-beginners
